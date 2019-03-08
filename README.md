@@ -9,5 +9,6 @@ To run this Vue application do this:
 2- Open terminal and cd into the folder "vueapiconnect".<br/>
 3- Do a npm install inside this folder.<br/>
 4- After everything is installed, write inside terminal "npm run serve".<br/>
+5- In terminal you are getting presented links you can copy paste into browser to present the API content. <br/>
 
 Now the content from the provided api shall be presented inside cards. 
